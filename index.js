@@ -57,5 +57,9 @@ for (var i = 0; i < questionAnswer.length; i++) {
   highscore.scoreProcess();
 }
 
-welcome();
+
+ // initailaizing welcome function
+ welcome();
+
+// initailizing quiz function
 quiz();
